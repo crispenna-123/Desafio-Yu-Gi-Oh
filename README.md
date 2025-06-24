@@ -1,15 +1,15 @@
-# Yu-Gi-Oh Jo-kenpo Edition 🃏
+# 🃏 Yu-Gi-Oh Jo-kenpo Edition
 
 **Yu-Gi-Oh Jo-kenpo Edition** é um jogo interativo baseado no clássico "Pedra, Papel e Tesoura", mas com personagens lendários do universo **Yu-Gi-Oh!**. O jogador e o computador escolhem cartas com diferentes tipos de atributos, e o vencedor é determinado com base nos resultados desses atributos.
 
-## Funcionalidades
+## 🚀 Funcionalidades
 
 - **Escolha de cartas**: O jogador escolhe uma carta de seu baralho, enquanto o computador escolhe uma carta aleatória.
 - **Tipos de cartas**: As cartas possuem tipos (Pedra, Papel, Tesoura) e o jogo segue a lógica clássica do "Jo-kenpo" para determinar o vencedor.
 - **Pontuação**: A cada rodada, a pontuação do jogador e do computador é atualizada.
 - **Interface interativa**: O jogo exibe um tabuleiro com cartas e fornece feedback visual sobre os resultados das rodadas.
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - **HTML**: Estrutura da interface do jogo.
 - **CSS**: Estilização do layout, incluindo a área de jogo, cartas e botões.
